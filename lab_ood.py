@@ -1,8 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab12 TR 1230-145
-"""
-
 class client:
     def __init__(self, id, pin, balance):
         self.id = id
