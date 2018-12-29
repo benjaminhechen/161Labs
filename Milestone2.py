@@ -1,7 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Project Milestone 2 TR 1230-145
-"""
 stocks = 0
 funds = 1000
 
