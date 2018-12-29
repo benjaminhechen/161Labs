@@ -1,8 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab10 TR 1230-145
-"""
-
 import random
 
 class PlayingCard:
