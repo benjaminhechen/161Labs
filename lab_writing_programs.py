@@ -1,7 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab2 TR 1230-145
-"""
 def main():
     print("This is a calculator.")
     x = eval(input("How many calculations would you like to evaluate?"))
