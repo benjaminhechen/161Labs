@@ -1,7 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab2 TR 1230-145
-"""
 from graphics import GraphWin, Rectangle, Polygon, Point
 
 def main():
