@@ -1,9 +1,5 @@
 # File: chaos.py
 # A simple program illustrating chaotic behavior.
-"""
-    Benjamin Chen
-    CSC161 Lab1 TR 1230-145
-"""
 
 def main():
     print("This program illustrates a chaotic function")
