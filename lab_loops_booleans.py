@@ -1,7 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab8 TR 1230-145
-"""
 def get_input():
     while True:
         userNum = eval(input("Please enter an even integer larger than 2: "))
