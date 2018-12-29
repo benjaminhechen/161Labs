@@ -1,8 +1,3 @@
-"""
-Benjamin Chen
-CSC161 Lab2 TR 1230-145
-"""
-
 def square_each(nums):
  
     for i in range(len(nums)):
