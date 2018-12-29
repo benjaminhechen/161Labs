@@ -1,10 +1,5 @@
-"""
-Benjamin Chen
-CSC161 Project Milestone 1 TR 1230-145
-"""
 stocks = 0
 funds = 1000
-#milestone 1 part 2^^
 
 def test_data(filename, col, day):
 
@@ -65,7 +60,5 @@ def transact(funds, stocks, qty, price, buy=False, sell=False):
 def main():
     print(test_data("AAPL.csv", "close", 25))
     
-   # pass  # Do nothing, just passing through!
 
-#
 main()
