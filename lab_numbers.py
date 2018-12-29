@@ -1,11 +1,3 @@
-"""
-CSC 161 Lab: Numbers
-
-Benjamin Chen
-Lab Section TR 1230-145
-Fall 2015
-"""
-
 from math import sqrt
 
 def main():
